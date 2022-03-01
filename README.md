@@ -4,7 +4,7 @@ Microprocessor Lab Exercises
 آشنایی با ابزار 
 Proteus
 # lab1
-آشنایی با معماری پردازندههای
+آشنایی با معماری پردازنده های
 ARM Cortex-M4
-و آشنایی با ایزار
+و آشنایی با ابزار
 keil
